@@ -1,0 +1,4 @@
+1,1,0,main.isValid
+2,2,0,main.balance
+3,3,0,main.difference
+4,-1,0,main.isPositive
